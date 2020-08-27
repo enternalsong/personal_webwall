@@ -63,7 +63,7 @@ ul{
 //cover-pics navbarimg
 .navbar-img{
     background-size: cover;
-    background-image: url('image/computerbg.jpg');
+    background-image: url('../image/computerbg.jpg');
     background-position: center;
     width: 100%;
     height: 100vh;
@@ -130,7 +130,7 @@ ul{
         width: 12rem;
         height: 12rem;
         border-radius: 50%;
-        background-image: url('image/kai.JPG');
+        background-image: url('../image/kai.JPG');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -207,7 +207,7 @@ ul{
 }
 //works
 .works-bg{
-    background-image: url('image/wooden.jpg');
+    background-image: url('../image/wooden.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -223,19 +223,19 @@ ul{
 
 }
 .img1{
-    background-image: url('image/work01.JPG');
+    background-image: url('../image/work01.JPG');
 }
 .img2{
-    background-image: url('image/work02.JPG');
+    background-image: url('../image/work02.JPG');
 }
 .img3{
-    background-image: url('image/work03.JPG')
+    background-image: url('../image/work03.JPG')
 }
 .img4{
-    background-image: url('image/work01.JPG')
+    background-image: url('../image/work01.JPG')
 }
 .img5{
-    background-image: url('image/work01.JPG')
+    background-image: url('../image/work01.JPG')
 }
 .img6{
     background-image: url('image/work06.JPG')
@@ -304,7 +304,7 @@ ul{
 .footer-bg{
     width: 100%;
     height: 80px;
-    background-image: url('image/computerbg.jpg');
+    background-image: url('/image/computerbg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 20;
