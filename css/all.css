@@ -291,7 +291,7 @@ ul {
 }
 
 .img6 {
-  background-image: url("image/work06.JPG");
+  background-image: url("../image/work06.JPG");
 }
 
 .work-button {
@@ -369,7 +369,7 @@ ul {
 .footer-bg {
   width: 100%;
   height: 80px;
-  background-image: url("/image/computerbg.jpg");
+  background-image: url("../image/computerbg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 20;
